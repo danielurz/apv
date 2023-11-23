@@ -1,0 +1,6 @@
+[submodule "apv_frontend"]
+	path = apv_frontend
+	url = https://github.com/danielurz/apv_frontend
+[submodule "apv_backend"]
+	path = apv_backend
+	url = https://github.com/danielurz/apv_backend
